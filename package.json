@@ -1,0 +1,10 @@
+{
+  "name": "server-api",
+  "version": "1.0.0",
+  "description": "creating an api",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC"
+}
